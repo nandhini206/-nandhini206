@@ -1,9 +1,18 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Nandhini. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+<h2> Hey,  I'm <a href="https://www.linkedin.com/in/Hirthick-24455222a">Nandhini P </a> :sunglasses: </h2>
 
-<br />
 
-I'm a self-taught passionate FrontEnd developer from India 🇮🇳
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=DeepthiTabithaBennet&style=flat-square" alt="https://github.com/DeepthiTabithaBennet" width="150" /> </p>
 
+### I'm a...   <img src="https://cdn.dribbble.com/users/1797155/screenshots/5018207/media/9894f398d34e1a20e94922b27e52e3e5.gif" height=15% width=40% align="right">
+
+* Future Data Scientist 
+* SCOPUS Journal Paper Author
+* Self-Taught Coder
+* Demanding Perfectionist
+
+-------------------------------------------------------------------------------------------------------
+### My Skills 
+<img src="https://img.shields.io/badge/-C-blue?style=for-the-badge&logo=c&logoColor=FFFFFF" height="30"> <img src="https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=c%2B%2B&logoColor=FFFFFF" height="30">   <img src="http://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=FFFFFF" height="30">   <img src="http://img.shields.io/badge/-Machine Learning-blue?style=for-the-badge&logo=Machine Learning&logoColor=FFFFFF" height="30">   <img src="http://img.shields.io/badge/-MySQL-blue?style=for-the-badge&logo=mysql&logoColor=FFFFFF" height="30">   <img src="http://img.shields.io/badge/-Deep Learning-blue?style=for-the-badge&logo=Deep Learning&logoColor=FFFFFF" height="30"> 
 **About me**
 
 - 💼 FrontEnd Engineer at [Razorpay](http://razorpay.com/)
