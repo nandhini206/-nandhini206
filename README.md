@@ -5,10 +5,6 @@
 
 ### I'm a...   <img src="https://cdn.dribbble.com/users/1797155/screenshots/5018207/media/9894f398d34e1a20e94922b27e52e3e5.gif" height=15% width=40% align="right">
 
-* Future Data Scientist 
-* SCOPUS Journal Paper Author
-* Self-Taught Coder
-* Demanding Perfectionist
 
 -------------------------------------------------------------------------------------------------------
 ### My Skills 
