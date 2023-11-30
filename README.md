@@ -1,50 +1,30 @@
-<h2> Hey,  I'm <a href="https://www.linkedin.com/in/Hirthick-24455222a">Nandhini P </a> :sunglasses: </h2>
+# 💫 About Me:
+HEY IM NANDHINI P<br>Statistical Proficiency: Strong foundation in statistical concepts for insightful data analysis and interpretation.<br><br>Data Manipulation & Analysis: Proficient in utilizing Pandas and NumPy, excelling in data manipulation and analysis for accurate and meaningful insights.<br><br>Machine Learning Expertise: Applied machine learning algorithms and frameworks, including scikit-learn and TensorFlow, to build predictive models.<br><br>Data Visualization Mastery: Skillful in creating clear and compelling visualizations using tools like Matplotlib, Seaborn, and Tableau, enhancing accessibility to complex data findings.<br><br>Database Management: Proficiency in SQL databases for efficient extraction and manipulation of data.<br><br>Aspiration and Commitment: Aspiring to contribute a diverse skill set to dynamic data science roles, committed to delivering impactful solutions through a meticulous and innovative approach.
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=DeepthiTabithaBennet&style=flat-square" alt="https://github.com/DeepthiTabithaBennet" width="150" /> </p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nans.7143) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nandhini-p-231010262) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@alwaysinspired1489) 
 
-### I'm a...   <img src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" height=15% width=40% align="right">
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=nandhini206&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=nandhini206&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nandhini206&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=nandhini206&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
--------------------------------------------------------------------------------------------------------
-### My Skills 
-<img src="https://img.shields.io/badge/-C-blue?style=for-the-badge&logo=c&logoColor=FFFFFF" height="30"> <img src="https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=c%2B%2B&logoColor=FFFFFF" height="30">   <img src="http://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=FFFFFF" height="30">   <img src="http://img.shields.io/badge/-Machine Learning-blue?style=for-the-badge&logo=Machine Learning&logoColor=FFFFFF" height="30">   <img src="http://img.shields.io/badge/-MySQL-blue?style=for-the-badge&logo=mysql&logoColor=FFFFFF" height="30">   <img src="http://img.shields.io/badge/-Deep Learning-blue?style=for-the-badge&logo=Deep Learning&logoColor=FFFFFF" height="30"> 
-**About me**
+### ✍ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-- 💼 FrontEnd Engineer at [Razorpay](http://razorpay.com/)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=nandhini206&limit=5&theme=onestar&combine_all_yearly_contributions=true)
 
-- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **50K** stars on GitHub
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-- ❤️ I love writing TypeScript, and building fun experiments on type-level
+---
+[![](https://visitcount.itsvg.in/api?id=nandhini206&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
-
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
-
-
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
-#### Top Repositories
-
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
-</a>
-
-<br />
-<br />
-
-<a href="https://twitter.com/anuraghazru">
-  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="https://codesandbox.io/u/anuraghazra">
-  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
-</a>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
