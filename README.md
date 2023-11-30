@@ -9,7 +9,7 @@ HEY IM NANDHINI P
 <br>Proficient in SQL databases for efficient data extraction and manipulation.
 
 <!-- Add your GIF here -->
-<img src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" alt="Your GIF" style="max-width:100%; height:auto;">
+<img src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" alt="Your GIF" style="max-width:50%; height:auto;">
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nans.7143) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nandhini-p-231010262) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@alwaysinspired1489) 
