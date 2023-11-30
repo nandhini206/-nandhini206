@@ -2,7 +2,7 @@
 HEY IM NANDHINI P<br>Statistical Proficiency: Strong foundation in statistical concepts for insightful data analysis and interpretation.<br><br>Data Manipulation & Analysis: Proficient in utilizing Pandas and NumPy, excelling in data manipulation and analysis for accurate and meaningful insights.<br><br>Machine Learning Expertise: Applied machine learning algorithms and frameworks, including scikit-learn and TensorFlow, to build predictive models.<br><br>Data Visualization Mastery: Skillful in creating clear and compelling visualizations using tools like Matplotlib, Seaborn, and Tableau, enhancing accessibility to complex data findings.<br><br>Database Management: Proficiency in SQL databases for efficient extraction and manipulation of data.<br><br>Aspiration and Commitment: Aspiring to contribute a diverse skill set to dynamic data science roles, committed to delivering impactful solutions through a meticulous and innovative approach.
 
 <!-- Add your GIF here -->
-<img src="[your_gif_url_here](https://tenor.com/view/ika-musume-type-computer-hacking-gif-11543441)" alt="Your GIF" style="max-width:100%; height:auto;">
+<img src="https://tenor.com/view/ika-musume-type-computer-hacking-gif-11543441" alt="Your GIF" style="max-width:100%; height:auto;">
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nans.7143) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nandhini-p-231010262) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@alwaysinspired1489) 
