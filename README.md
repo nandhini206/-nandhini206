@@ -3,10 +3,10 @@ HEY IM NANDHINI P
 
 <br><br>Aspiring data scientist committed to delivering impactful solutions through innovation.
 <br>Strong statistical foundation for insightful data analysis and interpretation.
-<br><br>Proficient in Pandas and NumPy, excelling in accurate and meaningful data manipulation.
-<br><br>Applied machine learning algorithms (scikit-learn, TensorFlow) to build predictive models.
-<br><br>Skillful in creating clear visualizations (Matplotlib, Seaborn, Tableau) for complex data.
-<br><br>Proficient in SQL databases for efficient data extraction and manipulation.
+<br>Proficient in Pandas and NumPy, excelling in accurate and meaningful data manipulation.
+<br>Applied machine learning algorithms (scikit-learn, TensorFlow) to build predictive models.
+<br>Skillful in creating clear visualizations (Matplotlib, Seaborn, Tableau) for complex data.
+<br>Proficient in SQL databases for efficient data extraction and manipulation.
 
 <!-- Add your GIF here -->
 <img src="https://tenor.com/view/ika-musume-type-computer-hacking-gif-11543441" alt="Your GIF" style="max-width:100%; height:auto;">
